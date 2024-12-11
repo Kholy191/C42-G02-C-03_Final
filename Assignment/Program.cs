@@ -93,6 +93,12 @@
             //for (int i = 1; i <= 12; i++)
             //    Console.WriteLine(i * num);
             #endregion
+
+            #region Q8 Write a program that allows to user to insert number then print all even numbers between 1 to this number
+            //int.TryParse(Console.ReadLine(), out int num);
+            //for (int i = 1; i <= num; i++)
+            //    if ((i % 2) == 0) Console.WriteLine(i);
+            #endregion
         }
     }
 }
