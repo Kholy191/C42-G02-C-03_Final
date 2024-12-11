@@ -86,6 +86,13 @@
             //for (int i = 1; i <= num; i++)
             //    Console.WriteLine(i);
             #endregion
+
+
+            #region Q7 Write a program that allows the user to insert an integer print a multiplication table up to 12.
+            //int.TryParse(Console.ReadLine(), out int num);
+            //for (int i = 1; i <= 12; i++)
+            //    Console.WriteLine(i * num);
+            #endregion
         }
     }
 }
