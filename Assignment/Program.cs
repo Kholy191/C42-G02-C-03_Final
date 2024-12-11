@@ -122,6 +122,33 @@
             //Percentage = (total * 100) / (5 * 100); // Assuming 100 is the maximum mark for each subject
             //Console.WriteLine($"Total marks = {total} \nAverage Marks = {Average}\nPercentage = {Percentage}");
             #endregion
+
+
+            #region Q11 Write a program to input the month number and print the number of days in that month.
+            //int.TryParse(Console.ReadLine(), out int month);
+            //switch (month)
+            //{
+            //    case 1:
+            //    case 3:
+            //    case 5:
+            //    case 7:
+            //    case 8:
+            //    case 10:
+            //    case 12:
+            //        Console.WriteLine(31);
+            //        break;
+
+            //    case 4: // April
+            //    case 6: // June
+            //    case 9: // September
+            //    case 11: // November
+            //        Console.WriteLine(30);
+            //        break;
+            //    case 2:
+            //        Console.WriteLine(28);
+            //        break;
+            //}
+            #endregion
         }
     }
 }
