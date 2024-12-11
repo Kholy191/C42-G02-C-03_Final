@@ -149,6 +149,31 @@
             //        break;
             //}
             #endregion
+
+            #region Q12 Write a program to create a Simple Calculator.
+            //Console.Write("Enter Num1 ");
+            //int.TryParse(Console.ReadLine(), out int Num1);
+            //Console.Write("Enter Operator ");
+            //char.TryParse(Console.ReadLine(), out char Operator);
+            //Console.Write("Enter Num2 ");
+            //int.TryParse(Console.ReadLine(), out int Num2);
+
+            //switch (Operator)
+            //{
+            //    case '+':
+            //        Console.WriteLine(Num1 + Num2);
+            //        break;
+            //    case '*':
+            //        Console.WriteLine(Num1 * Num2);
+            //        break;
+            //    case '/':
+            //        Console.WriteLine(Num1 / Num2);
+            //        break;
+            //    case '-':
+            //        Console.WriteLine(Num1 - Num2);
+            //        break;
+            //}
+            #endregion
         }
     }
 }
