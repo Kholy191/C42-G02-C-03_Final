@@ -99,6 +99,15 @@
             //for (int i = 1; i <= num; i++)
             //    if ((i % 2) == 0) Console.WriteLine(i);
             #endregion
+
+            #region Q9 Write a program that takes two integers then prints the power.
+            //int Result = 1;
+            //int.TryParse(Console.ReadLine(), out int num);
+            //int.TryParse(Console.ReadLine(), out int Power);
+            //for (int i = 1; i <= Power; i++)
+            //    Result = Result * num;
+            //Console.WriteLine(Result);
+            #endregion
         }
     }
 }
